@@ -1,2 +1,3 @@
 # 2022l4web-promotion-project-nforsterova
-2022l4web-promotion-project-nforsterova created by GitHub Classroom
+
+Můj projekt je hostovaný na [GitHub Pages](https://pslib-cz.github.io/2022l4web-promotion-project-nforsterova)
